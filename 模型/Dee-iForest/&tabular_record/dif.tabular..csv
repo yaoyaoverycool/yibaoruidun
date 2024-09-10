@@ -1,0 +1,76 @@
+
+---------------------------------------------------------
+model: dif, data dir: tabular, dataset: FULL, contamination: -1, 1runs, 
+Parameters,	 [n_ensemble], 		  50
+Parameters,	 [n_estimators], 		  6
+Parameters,	 [max_samples], 		  256
+Parameters,	 [batch_size], 		  64
+Parameters,	 [network_name], 		  mlp
+Parameters,	 [data_type], 		  tabular
+Parameters,	 [rep_dim], 		  20
+Parameters,	 [hidden_dim], 		  500,100
+Parameters,	 [skip_connection], 		  concat
+Parameters,	 [activation], 		  tanh
+Parameters,	 [new_score_func], 		  1
+Parameters,	 [new_ensemble_method], 		  1
+Parameters,	 [n_processes], 		  1
+Parameters,	 [device], 		  cuda
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, time
+
+---------------------------------------------------------
+model: dif, data dir: tabular, dataset: FULL, contamination: -1, 1runs, 
+Parameters,	 [n_ensemble], 		  50
+Parameters,	 [n_estimators], 		  6
+Parameters,	 [max_samples], 		  256
+Parameters,	 [batch_size], 		  64
+Parameters,	 [network_name], 		  mlp
+Parameters,	 [data_type], 		  tabular
+Parameters,	 [rep_dim], 		  20
+Parameters,	 [hidden_dim], 		  500,100
+Parameters,	 [skip_connection], 		  concat
+Parameters,	 [activation], 		  tanh
+Parameters,	 [new_score_func], 		  1
+Parameters,	 [new_ensemble_method], 		  1
+Parameters,	 [n_processes], 		  1
+Parameters,	 [device], 		  cuda
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, time
+
+---------------------------------------------------------
+model: dif, data dir: tabular, dataset: FULL, contamination: -1, 1runs, 
+Parameters,	 [n_ensemble], 		  50
+Parameters,	 [n_estimators], 		  6
+Parameters,	 [max_samples], 		  256
+Parameters,	 [batch_size], 		  64
+Parameters,	 [network_name], 		  mlp
+Parameters,	 [data_type], 		  tabular
+Parameters,	 [rep_dim], 		  20
+Parameters,	 [hidden_dim], 		  500,100
+Parameters,	 [skip_connection], 		  concat
+Parameters,	 [activation], 		  tanh
+Parameters,	 [new_score_func], 		  1
+Parameters,	 [new_ensemble_method], 		  1
+Parameters,	 [n_processes], 		  1
+Parameters,	 [device], 		  cuda
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, time
+
+---------------------------------------------------------
+model: dif, data dir: tabular, dataset: FULL, contamination: -1, 1runs, 
+Parameters,	 [n_ensemble], 		  50
+Parameters,	 [n_estimators], 		  6
+Parameters,	 [max_samples], 		  256
+Parameters,	 [batch_size], 		  64
+Parameters,	 [network_name], 		  mlp
+Parameters,	 [data_type], 		  tabular
+Parameters,	 [rep_dim], 		  20
+Parameters,	 [hidden_dim], 		  500,100
+Parameters,	 [skip_connection], 		  concat
+Parameters,	 [activation], 		  tanh
+Parameters,	 [new_score_func], 		  1
+Parameters,	 [new_ensemble_method], 		  1
+Parameters,	 [n_processes], 		  1
+Parameters,	 [device], 		  cuda
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, time
